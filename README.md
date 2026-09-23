@@ -1,7 +1,5 @@
 # IBM AI Workflow Capstone Project
 
-https://github.com/aavail/ai-workflow-capstone
-
 ## Tests
 To run all tests at once:
 ```python 
